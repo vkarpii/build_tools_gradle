@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: core
+Implementation-Version: 1.0
+Main-Class: epam.ua.Utils
+

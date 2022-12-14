@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="epam.ua.StringUtilsTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-12-11T12:01:57" hostname="DESKTOP-26RJGTT" time="0.103">
+  <properties/>
+  <testcase name="[1] 100" classname="epam.ua.StringUtilsTest" time="0.051"/>
+  <testcase name="[2] 1" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[3] +56534" classname="epam.ua.StringUtilsTest" time="0.002"/>
+  <testcase name="[4] +994212" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[5] 99" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[1] -100" classname="epam.ua.StringUtilsTest" time="0.002"/>
+  <testcase name="[2] -1" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[3] -56534" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[4] -0" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[5] 0" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[6] -0212" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[1] 2342fwqe" classname="epam.ua.StringUtilsTest" time="0.004"/>
+  <testcase name="[2] sdfgss" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[3] -354twges4qg " classname="epam.ua.StringUtilsTest" time="0.0"/>
+  <testcase name="[4] -----++++" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[5]  " classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <testcase name="[6] &#10;" classname="epam.ua.StringUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

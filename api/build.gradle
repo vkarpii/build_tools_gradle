@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'epam.ua'
+version '1.0'
+
+repositories {
+    mavenCentral()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
+    implementation files('libs/core-1.0.jar')
+    //+ subproject
+}
+
+test {
+    useJUnitPlatform()
+}
